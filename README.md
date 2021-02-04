@@ -1,3 +1,4 @@
+![Cache Simulator logo](/assets/logo.png)
 # Cache Simulator
 This Project is a Cache Simulator that Supports Diffrent Structures and Diffrent Replacement Policies . I Developed This for My ' Computer Architecture ' Semester Project.
 ### Supported Structures
