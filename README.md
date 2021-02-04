@@ -13,5 +13,6 @@ This Project is a Cache Simulator that Supports Diffrent Structures and Diffrent
 
 ### TODO
 - [ ] Sanitizing README file
+- [ ] Add Some Documention
 - [ ] Convert to Python Library
 
